@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name"> <font fgcolor="FF000000">Power Monitor </font></string>
+    <string name="preferences">Preferences</string>
+    <string name="title_activity_usage">Usage</string>
+    <string name="total">Total</string>
+    <string name="electric_fee_example">$ 0</string>
+    <string name="electric_usage_example" translatable="false">0 kWh</string>
+    <string name="days">Days</string>
+    <string name="activity_per_day">Activity per day</string>
+    <string name="add_activity" >Add activity</string>
+    <string name="electronic">Electronic</string>
+    <string name="number">Number</string>
+    <string name="usage_day">Usage / day</string>
+    <string name="electronic_name">Electronic Name</string>
+    <string name="template_daily_usage">Template usage/day</string>
+    <string name="basic_charge">Basic Charge Fee</string>
+    <string name="energy_charge">Fee per kWh</string>
+    <string name="others_fee">Other Fees</string>
+    <string name="electronic_template">Electronic Template</string>
+    <string name="mode">Mode</string>
+    <string name="double_score" translatable="false">" : "</string>
+    <string name="watt" translatable="false">Watt</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="default_number_electronic" translatable="false">1</string>
+    <string name="number_of_items">Number of Items</string>
+    <string name="save">Save</string>
+    <string name="currency_options">Currency</string>
+</resources>
