@@ -4,14 +4,6 @@
 
 
 ## Feature :
-  1.2
-  - Japanese locale support
-  - Spanish locale support
-
-  
-  1.1
-  - France locale support
-  
   1.0
   - Multiple electricity usage activity
   - Calculated bill prediction
@@ -20,5 +12,3 @@
   - Multiple days
   - Two usage mode : normal & standby
   - Currencies selectable
-  - Indonesia locale support
-
